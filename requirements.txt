@@ -5,3 +5,4 @@ xgboost
 statsmodels
 scipy
 requests
+scikit-learn
